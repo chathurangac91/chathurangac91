@@ -91,16 +91,56 @@ I'm a passionate Full Stack Developer with expertise in Node.js, PHP, and DevOps
 - Automated subscription handling
 - Built with Node.js, Express, MySQL, and WebSocket
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
+<!-- Stats Section -->
+## 📊 Experience & Impact
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chathurangac91&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-50%2B-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clients-Global-orange?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chathurangac91&theme=radical" alt="GitHub Streak" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Cloud%20Infrastructure-100%2B%20Servers-informational?style=flat-square" /><br/>
+      <sub>Managed & Deployed</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AI%20Integration-Multiple%20Projects-success?style=flat-square" /><br/>
+      <sub>ChatGPT & Gemini</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/System%20Architecture-Full%20Stack-blueviolet?style=flat-square" /><br/>
+      <sub>End-to-End Solutions</sub>
+    </td>
+  </tr>
+</table>
+
+## 💡 Core Competencies
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>🔒 Security</h3>
+      VPN Systems<br/>
+      SSH Management<br/>
+      Cloud Security
+    </td>
+    <td align="center">
+      <h3>🤖 AI & Automation</h3>
+      Chatbot Development<br/>
+      Process Automation<br/>
+      API Integration
+    </td>
+    <td align="center">
+      <h3>☁️ Cloud</h3>
+      Multi-Cloud Architecture<br/>
+      Server Management<br/>
+      Scalable Solutions
+    </td>
+  </tr>
+</table>
 
 <!-- Connect Section -->
 ## 🤝 Let's Connect
