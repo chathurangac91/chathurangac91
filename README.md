@@ -1,16 +1,116 @@
-## Hi there 👋
+<!-- Typing SVG -->
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3F97F7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Chathuranga;Full+Stack+Developer;Backend+Developer;DevOps+Engineer" alt="Typing SVG" /></a>
+</div>
 
-<!--
-**chathurangac91/chathurangac91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile Views Counter -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chathurangac91&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
-Here are some ideas to get you started:
+<!-- About Me Section -->
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Full Stack Developer with expertise in Node.js, PHP, and DevOps technologies. I specialize in building scalable web applications, automation systems, and innovative solutions that make a difference.
+
+- 🔭 I'm currently working on AI-powered chatbots and VPN management systems
+- 🌱 I'm constantly learning and exploring new technologies
+- 💬 Ask me about Backend Development, DevOps, and System Architecture
+- ⚡ Fun fact: I love turning complex problems into simple solutions
+
+<!-- Tech Stack Section -->
+## 🛠️ Tech Stack
+
+<p align="center">
+  <b>Backend & Frameworks</b><br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Databases</b><br>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Cloud & DevOps</b><br>
+  <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  
+</p>
+
+<p align="center">
+  <b>Mobile & Frontend</b><br>
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
+
+<p align="center">
+  <b>Tools & Others</b><br>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+</p>
+
+<!-- Featured Projects Section -->
+## 🌟 Featured Projects
+
+### 🤖 SehandiBot - AI Girlfriend Telegram Bot
+- AI-powered Telegram bot using Gemini API
+- Bilingual conversation in Sinhala and English
+- Memory management and credit system
+- Built with Node.js, Express, and SQLite
+
+### 🌐 VPNHOG
+- Free VPN account creation platform
+- Supports V2Ray and SSH protocols
+- Admin panel for server management
+- Built with PHP, MySQL, and Cloudflare
+
+### 🔒 CeylonSSH
+- Automated SSH account creation platform
+- Real-time server monitoring and load balancing
+- User-friendly interface with instant account delivery
+- Built with PHP, MySQL, and Shell scripting
+
+### 💼 3XPilot - V2Ray Management System
+- Comprehensive V2Ray account management
+- Real-time chat with AI integration
+- Automated subscription handling
+- Built with Node.js, Express, MySQL, and WebSocket
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chathurangac91&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chathurangac91&theme=radical" alt="GitHub Streak" />
+</p>
+
+<!-- Connect Section -->
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/chathuranga-kalupahana" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/Ch4thurang4X" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:chanakac.91@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p> 
