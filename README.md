@@ -67,25 +67,26 @@ I'm a passionate Full Stack Developer with expertise in Node.js, PHP, and DevOps
 <!-- Featured Projects Section -->
 ## 🌟 Featured Projects
 
-### 🤖 SehandiBot - AI Girlfriend Telegram Bot
+### <a href="https://t.me/SehandiBot" target="_blank">🤖 SehandiBot - AI Girlfriend Telegram Bot</a>
+
 - AI-powered Telegram bot using Gemini API
 - Bilingual conversation in Sinhala and English
 - Memory management and credit system
 - Built with Node.js, Express, and SQLite
 
-### 🌐 VPNHOG
+### <a href="https://www.vpnhog.xyz/" target="_blank">🌐 VPNHOG</a>
 - Free VPN account creation platform
 - Supports V2Ray and SSH protocols
 - Admin panel for server management
 - Built with PHP, MySQL, and Cloudflare
 
-### 🔒 CeylonSSH
+### <a href="https://www.facebook.com/ceylonssh/" target="_blank">🔒 CeylonSSH</a>
 - Automated SSH account creation platform
 - Real-time server monitoring and load balancing
 - User-friendly interface with instant account delivery
 - Built with PHP, MySQL, and Shell scripting
 
-### 💼 3XPilot - V2Ray Management System
+### <a href="https://www.3xpilot.com/" target="_blank">💼 3XPilot - V2Ray Management System</a>
 - Comprehensive V2Ray account management
 - Real-time chat with AI integration
 - Automated subscription handling
